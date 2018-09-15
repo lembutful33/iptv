@@ -1,0 +1,539 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ALFA TV" tvg-logo="" group-title="Zabavni/Entertainment",ALFA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/299.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Priroda/Nature",ANIMAL PLANET
+http://190.2.142.13:25461/live/primera_android/1122334455/331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HD HR" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 1 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HD HR" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 2 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 3
+http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HD HR" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 3 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 4
+http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HD HR" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 4 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HD HR" tvg-logo="" group-title="Sportski/Sports",ARENA SPORT 5 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARTV Aab" tvg-logo="" group-title="Muzički/Music",ARTV Aab
+http://190.2.142.13:25461/live/primera_android/1122334455/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="AURORA TV" tvg-logo="" group-title="Zabavni/Entertainment",AURORA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/266.ts
+#EXTINF:-1 tvg-id="" tvg-name="BN MUSIC" tvg-logo="" group-title="Muzički/Music",BN MUSIC
+http://190.2.142.13:25461/live/primera_android/1122334455/277.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="Zabavni/Entertainment",BOOMERANG
+http://190.2.142.13:25461/live/primera_android/1122334455/282.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Zabavni/Entertainment",CBS REALITY
+http://190.2.142.13:25461/live/primera_android/1122334455/360.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOC" tvg-logo="" group-title="Dokumentarni/Documentary",CGTN DOC
+http://190.2.142.13:25461/live/primera_android/1122334455/383.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE ET PECHE" tvg-logo="" group-title="Dokumentarni/Documentary",CHASSE ET PECHE
+http://190.2.142.13:25461/live/primera_android/1122334455/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 2" tvg-logo="" group-title="Filmski/Movies",CINEMAX 2
+http://190.2.142.13:25461/live/primera_android/1122334455/342.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR" tvg-logo="" group-title="Filmski/Movies",CINESTAR
+http://190.2.142.13:25461/live/primera_android/1122334455/363.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR ACTION" tvg-logo="" group-title="Filmski/Movies",CINESTAR ACTION
+http://190.2.142.13:25461/live/primera_android/1122334455/362.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="" group-title="Muzički/Music",CMC
+http://190.2.142.13:25461/live/primera_android/1122334455/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Informativni/News",CNN
+http://190.2.142.13:25461/live/primera_android/1122334455/382.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="Dokumentarni/Documentary",DISCOVERY
+http://190.2.142.13:25461/live/primera_android/1122334455/325.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Za djecu/For Kids",DISNEY CHANNEL
+http://190.2.142.13:25461/live/primera_android/1122334455/381.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIVA" tvg-logo="" group-title="Zabavni/Entertainment",DIVA
+http://190.2.142.13:25461/live/primera_android/1122334455/361.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOMA TV" tvg-logo="" group-title="Dokumentarni/Documentary",DOMA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/374.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Sportski/Sports",EUROSPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/307.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Sportski/Sports",EUROSPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Face TV 2" tvg-logo="" group-title="Zabavni/Entertainment",Face TV 2
+http://190.2.142.13:25461/live/primera_android/1122334455/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLOW RADIO SPAIN" tvg-logo="" group-title="",FLOW RADIO SPAIN
+http://190.2.142.13:25461/live/primera_android/1122334455/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="Filmski/Movies",FOX LIFE
+http://190.2.142.13:25461/live/primera_android/1122334455/369.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="Filmski/Movies",FOX MOVIES
+http://190.2.142.13:25461/live/primera_android/1122334455/367.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="Informativni/News",FRANCE 24
+http://190.2.142.13:25461/live/primera_android/1122334455/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="Informativni/News",FTV
+http://190.2.142.13:25461/live/primera_android/1122334455/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLAS DRINE" tvg-logo="" group-title="Muzički/Music",GLAS DRINE
+http://190.2.142.13:25461/live/primera_android/1122334455/301.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="Dokumentarni/Documentary",H2
+http://190.2.142.13:25461/live/primera_android/1122334455/323.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY" tvg-logo="" group-title="Zabavni/Entertainment",HAPPY
+http://190.2.142.13:25461/live/primera_android/1122334455/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT" tvg-logo="" group-title="Zabavni/Entertainment",HAYAT
+http://190.2.142.13:25461/live/primera_android/1122334455/288.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT FOLK" tvg-logo="" group-title="Muzički/Music",HAYAT FOLK
+http://190.2.142.13:25461/live/primera_android/1122334455/286.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT MUSIC" tvg-logo="" group-title="Muzički/Music",HAYAT MUSIC
+http://190.2.142.13:25461/live/primera_android/1122334455/287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Plus" tvg-logo="" group-title="Zabavni/Entertainment",Hayat Plus
+http://190.2.142.13:25461/live/primera_android/1122334455/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYATOVCI" tvg-logo="" group-title="Za djecu/For Kids",HAYATOVCI
+http://190.2.142.13:25461/live/primera_android/1122334455/285.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Filmski/Movies",HBO
+http://190.2.142.13:25461/live/primera_android/1122334455/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Filmski/Movies",HBO 2
+http://190.2.142.13:25461/live/primera_android/1122334455/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3" tvg-logo="" group-title="Filmski/Movies",HBO 3
+http://190.2.142.13:25461/live/primera_android/1122334455/364.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISPAHITS FM" tvg-logo="" group-title="",HISPAHITS FM
+http://190.2.142.13:25461/live/primera_android/1122334455/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="Dokumentarni/Documentary",HISTORY CHANNEL
+http://190.2.142.13:25461/live/primera_android/1122334455/324.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOUSE RADIO ESPAÑA" tvg-logo="" group-title="",HOUSE RADIO ESPAÑA
+http://190.2.142.13:25461/live/primera_android/1122334455/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT 5" tvg-logo="" group-title="Informativni/News",HRT 5
+http://190.2.142.13:25461/live/primera_android/1122334455/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT1" tvg-logo="" group-title="Informativni/News",HRT1
+http://190.2.142.13:25461/live/primera_android/1122334455/339.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT2" tvg-logo="" group-title="Informativni/News",HRT2
+http://190.2.142.13:25461/live/primera_android/1122334455/338.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT3" tvg-logo="" group-title="Informativni/News",HRT3
+http://190.2.142.13:25461/live/primera_android/1122334455/337.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT4" tvg-logo="" group-title="Informativni/News",HRT4
+http://190.2.142.13:25461/live/primera_android/1122334455/336.ts
+#EXTINF:-1 tvg-id="" tvg-name="KABEL EINS" tvg-logo="" group-title="Zabavni/Entertainment",KABEL EINS
+http://190.2.142.13:25461/live/primera_android/1122334455/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 25" tvg-logo="" group-title="Zabavni/Entertainment",KANAL 25
+http://190.2.142.13:25461/live/primera_android/1122334455/264.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFE AND HOLIDAY" tvg-logo="" group-title="Priroda/Nature",LIFE AND HOLIDAY
+http://190.2.142.13:25461/live/primera_android/1122334455/272.ts
+#EXTINF:-1 tvg-id="" tvg-name="M1 FILM" tvg-logo="" group-title="Filmski/Movies",M1 FILM
+http://190.2.142.13:25461/live/primera_android/1122334455/368.ts
+#EXTINF:-1 tvg-id="" tvg-name="MINIMAX" tvg-logo="" group-title="Za djecu/For Kids",MINIMAX
+http://190.2.142.13:25461/live/primera_android/1122334455/280.ts
+#EXTINF:-1 tvg-id="" tvg-name="MRT1" tvg-logo="" group-title="Informativni/News",MRT1
+http://190.2.142.13:25461/live/primera_android/1122334455/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="MRT2" tvg-logo="" group-title="Informativni/News",MRT2
+http://190.2.142.13:25461/live/primera_android/1122334455/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV IGMAN" tvg-logo="" group-title="Vjerski/Religious",MTV IGMAN
+http://190.2.142.13:25461/live/primera_android/1122334455/298.ts
+#EXTINF:-1 tvg-id="" tvg-name="N1 HD BIH" tvg-logo="" group-title="Informativni/News",N1 HD BIH
+http://190.2.142.13:25461/live/primera_android/1122334455/372.ts
+#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="" group-title="Informativni/News",N24
+http://190.2.142.13:25461/live/primera_android/1122334455/238.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Dokumentarni/Documentary",NAT GEO WILD
+http://190.2.142.13:25461/live/primera_android/1122334455/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="" group-title="Dokumentarni/Documentary",NATIONAL GEOGRAPHICS
+http://190.2.142.13:25461/live/primera_android/1122334455/322.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEON" tvg-logo="" group-title="Zabavni/Entertainment",NEON
+http://190.2.142.13:25461/live/primera_android/1122334455/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR" tvg-logo="" group-title="Za djecu/For Kids",NICK JUNIOR
+http://190.2.142.13:25461/live/primera_android/1122334455/281.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALGIA FM  ESPAÑA" tvg-logo="" group-title="",NOSTALGIA FM  ESPAÑA
+http://190.2.142.13:25461/live/primera_android/1122334455/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA 24" tvg-logo="" group-title="Zabavni/Entertainment",NOVA 24
+http://190.2.142.13:25461/live/primera_android/1122334455/208.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TV" tvg-logo="" group-title="Zabavni/Entertainment",NOVA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="OBN SAT" tvg-logo="" group-title="Zabavni/Entertainment",OBN SAT
+http://190.2.142.13:25461/live/primera_android/1122334455/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV ETNO" tvg-logo="" group-title="Muzički/Music",OTV ETNO
+http://190.2.142.13:25461/live/primera_android/1122334455/332.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV FOLK" tvg-logo="" group-title="Muzički/Music",OTV FOLK
+http://190.2.142.13:25461/live/primera_android/1122334455/333.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK ACTION" tvg-logo="" group-title="Filmski/Movies",PINK ACTION
+http://190.2.142.13:25461/live/primera_android/1122334455/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK BH" tvg-logo="" group-title="Zabavni/Entertainment",PINK BH
+http://190.2.142.13:25461/live/primera_android/1122334455/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK COMEDY" tvg-logo="" group-title="Filmski/Movies",PINK COMEDY
+http://190.2.142.13:25461/live/primera_android/1122334455/344.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK FAMILY" tvg-logo="" group-title="Zabavni/Entertainment",PINK FAMILY
+http://190.2.142.13:25461/live/primera_android/1122334455/353.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK FILM" tvg-logo="" group-title="Filmski/Movies",PINK FILM
+http://190.2.142.13:25461/live/primera_android/1122334455/357.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK KIDS" tvg-logo="" group-title="Za djecu/For Kids",PINK KIDS
+http://190.2.142.13:25461/live/primera_android/1122334455/355.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK KUHAR" tvg-logo="" group-title="Priroda/Nature",PINK KUHAR
+http://190.2.142.13:25461/live/primera_android/1122334455/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK MOVIES" tvg-logo="" group-title="Filmski/Movies",PINK MOVIES
+http://190.2.142.13:25461/live/primera_android/1122334455/354.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK PEDIA" tvg-logo="" group-title="Priroda/Nature",PINK PEDIA
+http://190.2.142.13:25461/live/primera_android/1122334455/352.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK PREMIUM" tvg-logo="" group-title="Filmski/Movies",PINK PREMIUM
+http://190.2.142.13:25461/live/primera_android/1122334455/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK REALITY" tvg-logo="" group-title="Zabavni/Entertainment",PINK REALITY
+http://190.2.142.13:25461/live/primera_android/1122334455/347.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK SCI FI FANTASY" tvg-logo="" group-title="Filmski/Movies",PINK SCI FI FANTASY
+http://190.2.142.13:25461/live/primera_android/1122334455/343.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK SERIJE" tvg-logo="" group-title="Filmski/Movies",PINK SERIJE
+http://190.2.142.13:25461/live/primera_android/1122334455/351.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK THRILLER" tvg-logo="" group-title="Filmski/Movies",PINK THRILLER
+http://190.2.142.13:25461/live/primera_android/1122334455/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK WESTERN" tvg-logo="" group-title="Filmski/Movies",PINK WESTERN
+http://190.2.142.13:25461/live/primera_android/1122334455/350.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK WORLD CINEMA" tvg-logo="" group-title="Filmski/Movies",PINK WORLD CINEMA
+http://190.2.142.13:25461/live/primera_android/1122334455/346.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK ZABAVA" tvg-logo="" group-title="Zabavni/Entertainment",PINK ZABAVA
+http://190.2.142.13:25461/live/primera_android/1122334455/348.ts
+#EXTINF:-1 tvg-id="" tvg-name="POSAVINA TV" tvg-logo="" group-title="Zabavni/Entertainment",POSAVINA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/377.ts
+#EXTINF:-1 tvg-id="" tvg-name="PROSIEBEN" tvg-logo="" group-title="Zabavni/Entertainment",PROSIEBEN
+http://190.2.142.13:25461/live/primera_android/1122334455/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRVA RS" tvg-logo="" group-title="Zabavni/Entertainment",PRVA RS
+http://190.2.142.13:25461/live/primera_android/1122334455/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BLETA TETOVË" tvg-logo="" group-title="",RADIO BLETA TETOVË
+http://190.2.142.13:25461/live/primera_android/1122334455/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO DESHIRA BELGJIKE" tvg-logo="" group-title="",RADIO DESHIRA BELGJIKE
+http://190.2.142.13:25461/live/primera_android/1122334455/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GOZADERA" tvg-logo="" group-title="",RADIO GOZADERA
+http://190.2.142.13:25461/live/primera_android/1122334455/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO POSITIVA" tvg-logo="" group-title="",RADIO POSITIVA
+http://190.2.142.13:25461/live/primera_android/1122334455/160.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SEHARA SARAJEVO" tvg-logo="" group-title="",RADIO SEHARA SARAJEVO
+http://190.2.142.13:25461/live/primera_android/1122334455/156.ts
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="" group-title="Zabavni/Entertainment",RTL
+http://190.2.142.13:25461/live/primera_android/1122334455/389.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL KOCKICA" tvg-logo="" group-title="Za djecu/For Kids",RTL KOCKICA
+http://190.2.142.13:25461/live/primera_android/1122334455/385.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL LIVING" tvg-logo="" group-title="Dokumentarni/Documentary",RTL LIVING
+http://190.2.142.13:25461/live/primera_android/1122334455/386.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL MAH" tvg-logo="" group-title="Zabavni/Entertainment",RTL MAH
+http://190.2.142.13:25461/live/primera_android/1122334455/388.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL2" tvg-logo="" group-title="Zabavni/Entertainment",RTL2
+http://190.2.142.13:25461/live/primera_android/1122334455/387.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTRS PLUS" tvg-logo="" group-title="Zabavni/Entertainment",RTRS PLUS
+http://190.2.142.13:25461/live/primera_android/1122334455/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS SAT" tvg-logo="" group-title="Informativni/News",RTS SAT
+http://190.2.142.13:25461/live/primera_android/1122334455/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV BN" tvg-logo="" group-title="Zabavni/Entertainment",RTV BN
+http://190.2.142.13:25461/live/primera_android/1122334455/278.ts
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT 1" tvg-logo="" group-title="Zabavni/Entertainment",SAT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/375.ts
+#EXTINF:-1 tvg-id="" tvg-name="SNTV RS" tvg-logo="" group-title="Dokumentarni/Documentary",SNTV RS
+http://190.2.142.13:25461/live/primera_android/1122334455/295.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1" tvg-logo="" group-title="Sportski/Sports",SPORT KLUB 1
+http://190.2.142.13:25461/live/primera_android/1122334455/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2" tvg-logo="" group-title="Sportski/Sports",SPORT KLUB 2
+http://190.2.142.13:25461/live/primera_android/1122334455/313.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3" tvg-logo="" group-title="Sportski/Sports",SPORT KLUB 3
+http://190.2.142.13:25461/live/primera_android/1122334455/312.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Zabavni/Entertainment",TLC
+http://190.2.142.13:25461/live/primera_android/1122334455/327.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL" tvg-logo="" group-title="Priroda/Nature",TRAVEL
+http://190.2.142.13:25461/live/primera_android/1122334455/329.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV DELTA" tvg-logo="" group-title="Zabavni/Entertainment",TV DELTA
+http://190.2.142.13:25461/live/primera_android/1122334455/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="" group-title="Informativni/News",TV1
+http://190.2.142.13:25461/live/primera_android/1122334455/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT HISTORY" tvg-logo="" group-title="Dokumentarni/Documentary",VIASAT HISTORY
+http://190.2.142.13:25461/live/primera_android/1122334455/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT NATURE" tvg-logo="" group-title="Priroda/Nature",VIASAT NATURE
+http://190.2.142.13:25461/live/primera_android/1122334455/326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Z1" tvg-logo="" group-title="Zabavni/Entertainment",Z1
+http://190.2.142.13:25461/live/primera_android/1122334455/341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Television 11 Espana" tvg-logo="" group-title="Zabavni/Entertainment",Television 11 Espana
+http://190.2.142.13:25461/live/primera_android/1122334455/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV A Mol" tvg-logo="" group-title="Muzički/Music",TV A Mol
+http://190.2.142.13:25461/live/primera_android/1122334455/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Balkan" tvg-logo="" group-title="Zabavni/Entertainment",A1 Balkan
+http://190.2.142.13:25461/live/primera_android/1122334455/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Bosnia" tvg-logo="" group-title="Zabavni/Entertainment",A1 Bosnia
+http://190.2.142.13:25461/live/primera_android/1122334455/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Cinema" tvg-logo="" group-title="Filmski/Movies",A1 Cinema
+http://190.2.142.13:25461/live/primera_android/1122334455/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Espana" tvg-logo="" group-title="Zabavni/Entertainment",A1 Espana
+http://190.2.142.13:25461/live/primera_android/1122334455/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Exclusive" tvg-logo="" group-title="Zabavni/Entertainment",A1 Exclusive
+http://190.2.142.13:25461/live/primera_android/1122334455/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 HD TV" tvg-logo="" group-title="Zabavni/Entertainment",A1 HD TV
+http://190.2.142.13:25461/live/primera_android/1122334455/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Islam" tvg-logo="" group-title="Vjerski/Religious",A1 Islam
+http://190.2.142.13:25461/live/primera_android/1122334455/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Kids" tvg-logo="" group-title="Za djecu/For Kids",A1 Kids
+http://190.2.142.13:25461/live/primera_android/1122334455/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Montenegro" tvg-logo="" group-title="Zabavni/Entertainment",A1 Montenegro
+http://190.2.142.13:25461/live/primera_android/1122334455/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Music HD" tvg-logo="" group-title="Muzički/Music",A1 Music HD
+http://190.2.142.13:25461/live/primera_android/1122334455/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Shqiptare" tvg-logo="" group-title="Zabavni/Entertainment",A1 Shqiptare
+http://190.2.142.13:25461/live/primera_android/1122334455/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Sport" tvg-logo="" group-title="Sportski/Sports",A1 Sport
+http://190.2.142.13:25461/live/primera_android/1122334455/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Srbija" tvg-logo="" group-title="Zabavni/Entertainment",A1 Srbija
+http://190.2.142.13:25461/live/primera_android/1122334455/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 World" tvg-logo="" group-title="Zabavni/Entertainment",A1 World
+http://190.2.142.13:25461/live/primera_android/1122334455/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-logo="" group-title="Informativni/News",Al Alam
+http://190.2.142.13:25461/live/primera_android/1122334455/106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Balkans" tvg-logo="" group-title="Informativni/News",Al Jazeera Balkans
+http://190.2.142.13:25461/live/primera_android/1122334455/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera International" tvg-logo="" group-title="Informativni/News",Al Jazeera International
+http://190.2.142.13:25461/live/primera_android/1122334455/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher" tvg-logo="" group-title="Informativni/News",Al Jazeera Mubasher
+http://190.2.142.13:25461/live/primera_android/1122334455/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Zabavni/Entertainment",ATV
+http://190.2.142.13:25461/live/primera_android/1122334455/268.ts
+#EXTINF:-1 tvg-id="" tvg-name="B92 INFO" tvg-logo="" group-title="Informativni/News",B92 INFO
+http://190.2.142.13:25461/live/primera_android/1122334455/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN EROTIC" tvg-logo="" group-title="Za odrasle/For Adults",BALKAN EROTIC
+http://190.2.142.13:25461/live/primera_android/1122334455/231.ts
+#EXTINF:-1 tvg-id="BHT 1" tvg-name="BHT1 HD" tvg-logo="" group-title="Informativni/News",BHT1 HD
+http://190.2.142.13:25461/live/primera_android/1122334455/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="BHT1 SD" tvg-logo="" group-title="Informativni/News",BHT1 SD
+http://190.2.142.13:25461/live/primera_android/1122334455/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="BNV TV Sandzak" tvg-logo="" group-title="Informativni/News",BNV TV Sandzak
+http://190.2.142.13:25461/live/primera_android/1122334455/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="" group-title="Zabavni/Entertainment",CITY TV
+http://190.2.142.13:25461/live/primera_android/1122334455/393.ts
+#EXTINF:-1 tvg-id="" tvg-name="DM Sat" tvg-logo="" group-title="Muzički/Music",DM Sat
+http://190.2.142.13:25461/live/primera_android/1122334455/74.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dreamporn" tvg-logo="" group-title="Za odrasle/For Adults",Dreamporn
+http://190.2.142.13:25461/live/primera_android/1122334455/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="" group-title="Zabavni/Entertainment",Duga TV
+http://190.2.142.13:25461/live/primera_android/1122334455/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Informativni/News",DW
+http://190.2.142.13:25461/live/primera_android/1122334455/380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Face TV" tvg-logo="" group-title="Zabavni/Entertainment",Face TV
+http://190.2.142.13:25461/live/primera_android/1122334455/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="fibwi Live" tvg-logo="" group-title="Filmski/Movies",fibwi Live
+http://190.2.142.13:25461/live/primera_android/1122334455/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="IFilm" tvg-logo="" group-title="Filmski/Movies",IFilm
+http://190.2.142.13:25461/live/primera_android/1122334455/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="IFilm Balkan" tvg-logo="" group-title="Filmski/Movies",IFilm Balkan
+http://190.2.142.13:25461/live/primera_android/1122334455/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="IML TV" tvg-logo="" group-title="Vjerski/Religious",IML TV
+http://190.2.142.13:25461/live/primera_android/1122334455/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="imlNasheed TV" tvg-logo="" group-title="Vjerski/Religious",imlNasheed TV
+http://190.2.142.13:25461/live/primera_android/1122334455/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Islam Montenegro" tvg-logo="" group-title="Vjerski/Religious",Islam Montenegro
+http://190.2.142.13:25461/live/primera_android/1122334455/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="IZVORNA TV" tvg-logo="" group-title="Muzički/Music",IZVORNA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="K3 TV" tvg-logo="" group-title="Zabavni/Entertainment",K3 TV
+http://190.2.142.13:25461/live/primera_android/1122334455/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN MUSIC 2" tvg-logo="" group-title="Muzički/Music",KCN MUSIC 2
+http://190.2.142.13:25461/live/primera_android/1122334455/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAUDATO TV" tvg-logo="" group-title="Vjerski/Religious",LAUDATO TV
+http://190.2.142.13:25461/live/primera_android/1122334455/216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Life TV Espana" tvg-logo="" group-title="Zabavni/Entertainment",Life TV Espana
+http://190.2.142.13:25461/live/primera_android/1122334455/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love World Euro TV" tvg-logo="" group-title="Vjerski/Religious",Love World Euro TV
+http://190.2.142.13:25461/live/primera_android/1122334455/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mar TV Catalonia" tvg-logo="" group-title="Informativni/News",Mar TV Catalonia
+http://190.2.142.13:25461/live/primera_android/1122334455/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="Media TV" tvg-logo="" group-title="Filmski/Movies",Media TV
+http://190.2.142.13:25461/live/primera_android/1122334455/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meka TV" tvg-logo="" group-title="Vjerski/Religious",Meka TV
+http://190.2.142.13:25461/live/primera_android/1122334455/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="MirTV Europa HD" tvg-logo="" group-title="Zabavni/Entertainment",MirTV Europa HD
+http://190.2.142.13:25461/live/primera_android/1122334455/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moje Bugojno" tvg-logo="" group-title="Zabavni/Entertainment",Moje Bugojno
+http://190.2.142.13:25461/live/primera_android/1122334455/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="MonteLux TV" tvg-logo="" group-title="Dokumentarni/Documentary",MonteLux TV
+http://190.2.142.13:25461/live/primera_android/1122334455/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVOSADSKA TV" tvg-logo="" group-title="Zabavni/Entertainment",NOVOSADSKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/284.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV 101 Prijedor" tvg-logo="" group-title="Zabavni/Entertainment",NTV 101 Prijedor
+http://190.2.142.13:25461/live/primera_android/1122334455/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV Amna" tvg-logo="" group-title="Zabavni/Entertainment",NTV Amna
+http://190.2.142.13:25461/live/primera_android/1122334455/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV JATA" tvg-logo="" group-title="Zabavni/Entertainment",NTV JATA
+http://190.2.142.13:25461/live/primera_android/1122334455/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSJECKA TV" tvg-logo="" group-title="Zabavni/Entertainment",OSJECKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/340.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV Valentinovo" tvg-logo="" group-title="Muzički/Music",OTV Valentinovo
+http://190.2.142.13:25461/live/primera_android/1122334455/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="Plus HD TV" tvg-logo="" group-title="Muzički/Music",Plus HD TV
+http://190.2.142.13:25461/live/primera_android/1122334455/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Plus TV" tvg-logo="" group-title="Muzički/Music",Plus TV
+http://190.2.142.13:25461/live/primera_android/1122334455/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red TV Spain" tvg-logo="" group-title="Filmski/Movies",Red TV Spain
+http://190.2.142.13:25461/live/primera_android/1122334455/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Roma TV" tvg-logo="" group-title="Muzički/Music",Roma TV
+http://190.2.142.13:25461/live/primera_android/1122334455/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="RROKUM TV" tvg-logo="" group-title="Zabavni/Entertainment",RROKUM TV
+http://190.2.142.13:25461/live/primera_android/1122334455/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT Dershira" tvg-logo="" group-title="Muzički/Music",RT Dershira
+http://190.2.142.13:25461/live/primera_android/1122334455/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTCG1" tvg-logo="" group-title="Informativni/News",RTCG1
+http://190.2.142.13:25461/live/primera_android/1122334455/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTCG2" tvg-logo="" group-title="Informativni/News",RTCG2
+http://190.2.142.13:25461/live/primera_android/1122334455/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTCGsat" tvg-logo="" group-title="Informativni/News",RTCGsat
+http://190.2.142.13:25461/live/primera_android/1122334455/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTIliria" tvg-logo="" group-title="Zabavni/Entertainment",RTIliria
+http://190.2.142.13:25461/live/primera_android/1122334455/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK1" tvg-logo="" group-title="Informativni/News",RTK1
+http://190.2.142.13:25461/live/primera_android/1122334455/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTRS" tvg-logo="" group-title="Informativni/News",RTRS
+http://190.2.142.13:25461/live/primera_android/1122334455/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS1" tvg-logo="" group-title="Informativni/News",RTS1
+http://190.2.142.13:25461/live/primera_android/1122334455/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS2" tvg-logo="" group-title="Informativni/News",RTS2
+http://190.2.142.13:25461/live/primera_android/1122334455/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV  Islam" tvg-logo="" group-title="Vjerski/Religious",RTV  Islam
+http://190.2.142.13:25461/live/primera_android/1122334455/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 7 TUZLA" tvg-logo="" group-title="Zabavni/Entertainment",RTV 7 TUZLA
+http://190.2.142.13:25461/live/primera_android/1122334455/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV CAZIN" tvg-logo="" group-title="Informativni/News",RTV CAZIN
+http://190.2.142.13:25461/live/primera_android/1122334455/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV HIT" tvg-logo="" group-title="Muzički/Music",RTV HIT
+http://190.2.142.13:25461/live/primera_android/1122334455/275.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Ilirja Gjeneve" tvg-logo="" group-title="Muzički/Music",RTV Ilirja Gjeneve
+http://190.2.142.13:25461/live/primera_android/1122334455/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV KISS" tvg-logo="" group-title="Zabavni/Entertainment",RTV KISS
+http://190.2.142.13:25461/live/primera_android/1122334455/335.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Mostar" tvg-logo="" group-title="Zabavni/Entertainment",RTV Mostar
+http://190.2.142.13:25461/live/primera_android/1122334455/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Novi Pazar" tvg-logo="" group-title="Zabavni/Entertainment",RTV Novi Pazar
+http://190.2.142.13:25461/live/primera_android/1122334455/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Slon" tvg-logo="" group-title="Zabavni/Entertainment",RTV Slon
+http://190.2.142.13:25461/live/primera_android/1122334455/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV USK" tvg-logo="" group-title="Informativni/News",RTV USK
+http://190.2.142.13:25461/live/primera_android/1122334455/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina 1" tvg-logo="" group-title="Informativni/News",RTV Vojvodina 1
+http://190.2.142.13:25461/live/primera_android/1122334455/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina 2" tvg-logo="" group-title="Informativni/News",RTV Vojvodina 2
+http://190.2.142.13:25461/live/primera_android/1122334455/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="" group-title="Informativni/News",Russia Today
+http://190.2.142.13:25461/live/primera_android/1122334455/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today Arabic" tvg-logo="" group-title="Informativni/News",Russia Today Arabic
+http://190.2.142.13:25461/live/primera_android/1122334455/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today Doc" tvg-logo="" group-title="Dokumentarni/Documentary",Russia Today Doc
+http://190.2.142.13:25461/live/primera_android/1122334455/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sahar Azeri" tvg-logo="" group-title="Informativni/News",Sahar Azeri
+http://190.2.142.13:25461/live/primera_android/1122334455/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sahar TV Balkan" tvg-logo="" group-title="Informativni/News",Sahar TV Balkan
+http://190.2.142.13:25461/live/primera_android/1122334455/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="SamaraGis Russia" tvg-logo="" group-title="Informativni/News",SamaraGis Russia
+http://190.2.142.13:25461/live/primera_android/1122334455/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sandzacka RTV Mreza" tvg-logo="" group-title="Zabavni/Entertainment",Sandzacka RTV Mreza
+http://190.2.142.13:25461/live/primera_android/1122334455/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sandzacka Televizija" tvg-logo="" group-title="Zabavni/Entertainment",Sandzacka Televizija
+http://190.2.142.13:25461/live/primera_android/1122334455/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sehara TV" tvg-logo="" group-title="Muzički/Music",Sehara TV
+http://190.2.142.13:25461/live/primera_android/1122334455/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="Semerkand TV" tvg-logo="" group-title="Vjerski/Religious",Semerkand TV
+http://190.2.142.13:25461/live/primera_android/1122334455/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="" group-title="Muzički/Music",Sevdah TV
+http://190.2.142.13:25461/live/primera_android/1122334455/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Folk Macedonia" tvg-logo="" group-title="Muzički/Music",Sky Folk Macedonia
+http://190.2.142.13:25461/live/primera_android/1122334455/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="SLAVONSKA TV" tvg-logo="" group-title="Informativni/News",SLAVONSKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMART TV Tesanj" tvg-logo="" group-title="Zabavni/Entertainment",SMART TV Tesanj
+http://190.2.142.13:25461/live/primera_android/1122334455/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spin TV" tvg-logo="" group-title="Muzički/Music",Spin TV
+http://190.2.142.13:25461/live/primera_android/1122334455/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="SREMSKA TV" tvg-logo="" group-title="Zabavni/Entertainment",SREMSKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/279.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYRI BLUE HD TV" tvg-logo="" group-title="Zabavni/Entertainment",SYRI BLUE HD TV
+http://190.2.142.13:25461/live/primera_android/1122334455/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syri Vision" tvg-logo="" group-title="Muzički/Music",Syri Vision
+http://190.2.142.13:25461/live/primera_android/1122334455/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tanjug" tvg-logo="" group-title="Informativni/News",Tanjug
+http://190.2.142.13:25461/live/primera_android/1122334455/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="" group-title="Informativni/News",TGRT Haber
+http://190.2.142.13:25461/live/primera_android/1122334455/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Kids" tvg-logo="" group-title="Za djecu/For Kids",TNT Kids
+http://190.2.142.13:25461/live/primera_android/1122334455/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="Informativni/News",TRT Haber
+http://190.2.142.13:25461/live/primera_android/1122334455/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="" group-title="Informativni/News",TRT World
+http://190.2.142.13:25461/live/primera_android/1122334455/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT1 HD" tvg-logo="" group-title="Informativni/News",TRT1 HD
+http://190.2.142.13:25461/live/primera_android/1122334455/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRTCocukHD1" tvg-logo="" group-title="Za djecu/For Kids",TRTCocukHD1
+http://190.2.142.13:25461/live/primera_android/1122334455/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRTDiyanetHD" tvg-logo="" group-title="Vjerski/Religious",TRTDiyanetHD
+http://190.2.142.13:25461/live/primera_android/1122334455/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 Gostivar" tvg-logo="" group-title="Zabavni/Entertainment",TV 2 Gostivar
+http://190.2.142.13:25461/live/primera_android/1122334455/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Bugojno" tvg-logo="" group-title="Zabavni/Entertainment",TV Bugojno
+http://190.2.142.13:25461/live/primera_android/1122334455/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Islam Prizren" tvg-logo="" group-title="Vjerski/Religious",TV Islam Prizren
+http://190.2.142.13:25461/live/primera_android/1122334455/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Jedinstvo Novi Pazar" tvg-logo="" group-title="Zabavni/Entertainment",TV Jedinstvo Novi Pazar
+http://190.2.142.13:25461/live/primera_android/1122334455/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Liria" tvg-logo="" group-title="Muzički/Music",TV Liria
+http://190.2.142.13:25461/live/primera_android/1122334455/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Llapi" tvg-logo="" group-title="Muzički/Music",TV Llapi
+http://190.2.142.13:25461/live/primera_android/1122334455/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV MOST" tvg-logo="" group-title="Informativni/News",TV MOST
+http://190.2.142.13:25461/live/primera_android/1122334455/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="Muzički/Music",TV Opoja
+http://190.2.142.13:25461/live/primera_android/1122334455/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PINK" tvg-logo="" group-title="Zabavni/Entertainment",TV PINK
+http://190.2.142.13:25461/live/primera_android/1122334455/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Plisi" tvg-logo="" group-title="Muzički/Music",TV Plisi
+http://190.2.142.13:25461/live/primera_android/1122334455/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Sarajevo" tvg-logo="" group-title="Zabavni/Entertainment",TV Sarajevo
+http://190.2.142.13:25461/live/primera_android/1122334455/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri HD" tvg-logo="" group-title="Muzički/Music",TV Sharri HD
+http://190.2.142.13:25461/live/primera_android/1122334455/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Tetove" tvg-logo="" group-title="Zabavni/Entertainment",TV Tetove
+http://190.2.142.13:25461/live/primera_android/1122334455/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TK" tvg-logo="" group-title="Informativni/News",TV TK
+http://190.2.142.13:25461/live/primera_android/1122334455/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Visoko" tvg-logo="" group-title="Zabavni/Entertainment",TV Visoko
+http://190.2.142.13:25461/live/primera_android/1122334455/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Vogosca" tvg-logo="" group-title="Zabavni/Entertainment",TV Vogosca
+http://190.2.142.13:25461/live/primera_android/1122334455/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vikom Music" tvg-logo="" group-title="Muzički/Music",Vikom Music
+http://190.2.142.13:25461/live/primera_android/1122334455/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vikom TV" tvg-logo="" group-title="Muzički/Music",Vikom TV
+http://190.2.142.13:25461/live/primera_android/1122334455/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="VINKOVACKA TV" tvg-logo="" group-title="Zabavni/Entertainment",VINKOVACKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Voice Of America" tvg-logo="" group-title="Informativni/News",Voice Of America
+http://190.2.142.13:25461/live/primera_android/1122334455/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zdrava Hrvatska" tvg-logo="" group-title="Vjerski/Religious",Zdrava Hrvatska
+http://190.2.142.13:25461/live/primera_android/1122334455/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zdrava Hungary" tvg-logo="" group-title="Vjerski/Religious",Zdrava Hungary
+http://190.2.142.13:25461/live/primera_android/1122334455/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zdrava Slovenija" tvg-logo="" group-title="Vjerski/Religious",Zdrava Slovenija
+http://190.2.142.13:25461/live/primera_android/1122334455/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zdrava Srbija" tvg-logo="" group-title="Vjerski/Religious",Zdrava Srbija
+http://190.2.142.13:25461/live/primera_android/1122334455/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zenica" tvg-logo="" group-title="Zabavni/Entertainment",RTV Zenica
+http://190.2.142.13:25461/live/primera_android/1122334455/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Kosove" tvg-logo="" group-title="Informativni/News",RTV 21 Kosove
+http://190.2.142.13:25461/live/primera_android/1122334455/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Press TV Iran" tvg-logo="" group-title="Informativni/News",Press TV Iran
+http://190.2.142.13:25461/live/primera_android/1122334455/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pride TV" tvg-logo="" group-title="Zabavni/Entertainment",Pride TV
+http://190.2.142.13:25461/live/primera_android/1122334455/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="Primera HD" tvg-logo="" group-title="Dokumentarni/Documentary",Primera HD
+http://190.2.142.13:25461/live/primera_android/1122334455/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="Primera Latino" tvg-logo="" group-title="Muzički/Music",Primera Latino
+http://190.2.142.13:25461/live/primera_android/1122334455/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="Primera Music" tvg-logo="" group-title="Muzički/Music",Primera Music
+http://190.2.142.13:25461/live/primera_android/1122334455/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSM Pale" tvg-logo="" group-title="Informativni/News",OSM Pale
+http://190.2.142.13:25461/live/primera_android/1122334455/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="" group-title="Vjerski/Religious",Kanal 5
+http://190.2.142.13:25461/live/primera_android/1122334455/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 6 HD" tvg-logo="" group-title="Zabavni/Entertainment",Kanal 6 HD
+http://190.2.142.13:25461/live/primera_android/1122334455/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 6 SD" tvg-logo="" group-title="Zabavni/Entertainment",Kanal 6 SD
+http://190.2.142.13:25461/live/primera_android/1122334455/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="" group-title="Vjerski/Religious",Kanal 7
+http://190.2.142.13:25461/live/primera_android/1122334455/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="" group-title="Informativni/News",Hispan TV
+http://190.2.142.13:25461/live/primera_android/1122334455/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jug TV" tvg-logo="" group-title="Zabavni/Entertainment",Jug TV
+http://190.2.142.13:25461/live/primera_android/1122334455/402.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zeri i Dinamarke" tvg-logo="" group-title="Zabavni/Entertainment",Zeri i Dinamarke
+http://190.2.142.13:25461/live/primera_android/1122334455/401.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT CHANNEL" tvg-logo="" group-title="",FIGHT CHANNEL
+http://190.2.142.13:25461/live/primera_android/1122334455/578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Izvorna TV Live" tvg-logo="" group-title="Muzički/Music",Izvorna TV Live
+http://190.2.142.13:25461/live/primera_android/1122334455/577.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jame-Jam Iran" tvg-logo="" group-title="Zabavni/Entertainment",Jame-Jam Iran
+http://190.2.142.13:25461/live/primera_android/1122334455/1289.ts
